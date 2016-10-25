@@ -3,7 +3,7 @@ This is part of my course curriculum EE657 (Pattern Recognition and Machine Lear
 
 # Description
 Four algorithms are implemented in this project
-1) Bayesian classifier for classifying digits.
-2) Gaussian mixture models for image segmentation
-3) Principal Component Analysis for face recognition
-4) Support Vector Machines
+* Bayesian classifier for classifying digits.
+* Gaussian mixture models for image segmentation
+* Principal Component Analysis for face recognition
+* Support Vector Machines
